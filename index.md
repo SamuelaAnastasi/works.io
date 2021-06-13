@@ -1,2 +1,2 @@
 
-[Link](www.site.com)
+[Link](www.site.com/login.shtml)
