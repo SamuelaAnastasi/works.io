@@ -1,2 +1,2 @@
 
-[[a relative link](home.md))
+[[a relative link](bclim://login))
