@@ -1,2 +1,2 @@
 
-[[a relative link](bclim://login))
+[link](bclim://login)
