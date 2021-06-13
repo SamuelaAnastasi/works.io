@@ -1,2 +1,2 @@
 
-[Link](https://samuelaanastasi.github.io/works.io/)
+[[a relative link](home.md))
